@@ -6,7 +6,7 @@
 
 博客排名不分先后。
 
-点击 [Android-Developer-Blog-Rss.opml](/opml/Android-Developer-Blog-Rss.opml) 下载原始 OPML 文件。
+点击 [Android-Developer-Blog-Rss.opml](/opml/Android-Developer-Blog-Rss.opml)  获取原始 OPML 文件。
 
 
 
